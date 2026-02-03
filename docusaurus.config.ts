@@ -76,10 +76,10 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'My Site',
+      title: 'EduTheia Docs',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'EduTheia Logo',
+        src: 'img/logo.png',
       },
       items: [
         {
